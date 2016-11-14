@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "G:\\Project\\CheKu\\custom_adapter\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    }
+]
